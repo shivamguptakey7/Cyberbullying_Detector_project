@@ -56,7 +56,7 @@ The comment text and ratings are stored in csv files, and I read the data into a
 
 The ratings labels are floating point values ranging from 0.0 to 1.0, reflecting the proportion of human raters who determined the comment included that subtype of toxicity. I engineered a binary target for classification. Specifically, the `target` label flagged comments that exceeded thresholds (chosen by me) for any of the subsets of toxicity that were included. Using these criteria, roughly 17% of the posts are considered positive targets. Although the proportion of toxic posts is small, the total number of toxic posts is approaching 340,000. Consequently, I chose to undersample the negative class in order to avoid class imbalance while training the model.
 
-![class imbalance](images/class_imbalance.jpg)
+
 
 The `comment_text` feature is stored as a single continuous text string for each record, which required standard "Bag of Words" preprocessing techniques for NLP. This includes text cleaning, removing stop words, tokenization, lemmatization, and vectorization. Using the CountVectorizer method in sci-kit learn, we get a set of features representing a the number of occurrences of words in each comment.
 
