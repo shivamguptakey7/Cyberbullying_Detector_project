@@ -9,7 +9,7 @@
 
 Parents find it extremely difficult to monitor their children's social media interactions for cyberbullying and toxic comments. I trained several machine learning models to detect toxic comments in over 500,000 social media comments. The best machine learning model could be used to provide alerts to parents when these issues arise online. Ultimately, these parental alerts could ameliorate some of the risks that children experience online.
 
-Please review my [presentation](./Presentation.pdf) for a quick overview of this project.
+
 
 ****
 
@@ -181,7 +181,6 @@ For any additional questions, please [email](mailto:gcburgess@gmail.com) or conn
 
 ```
 ├── README.md					<- The top-level README for reviewers of this project
-├── Presentation.pdf				<- PDF version of project presentation
 ├── 01-data-understanding.ipynb			<- Notebook containing data exploration
 ├── 02-data-preprocessing.ipynb			<- Notebook containing NLP preprocessing
 ├── 03-pipelines-and-models.ipynb		<- Notebook containing pipelines and model selection
