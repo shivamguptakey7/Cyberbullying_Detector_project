@@ -1,8 +1,7 @@
 # Detecting Cyberbullying with NLP
 
-**Author**: Greg Burgess
+**Author**: Shivam Gupta
 
-![cyberbully image](images/Cyberprzemoc.png)
 
 ****
 
