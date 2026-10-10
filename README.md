@@ -17,9 +17,9 @@ Parents find it extremely difficult to monitor their children's social media int
 
 According to a surveys from the CDC, nearly 16 percent of students in grades 9–12 reported experiencing cyberbullying. The percentage was twice as large for females (20.4%) as males (10.9%), and nearly twice as large for students identifying as gay, lesbian, or bisexual (26.6%) as those identifying as heterosexual (14.1%). [source](http://nces.ed.gov/programs/coe/indicator/a10#6)
 
-However, these may be underestimates of the prevalence of cyberbullying. In 2021, Bark (a parental control app) analyzed 3.4 billion messages and found that 85% of teens experienced or witnessed cyberbullying at some point during 2021. [source](https://www.bark.us/annual-report-2021/)
+However, these may be underestimates of the prevalence of cyberbullying. In 2021, Bark (a parental control app) analyzed 3.4 billion messages and found that 85% of teens experienced or witnessed cyberbullying at some point during 2021.
 
-[source: Bark annual survey](https://www.bark.us/annual-report-2021/)
+
 
 Parents struggle to keep their kids and teens safe, especially online. Very few products that monitor internet usage can also monitor the *content* teens see while they are online. There are some products being developed that offer APIs to moderators and service providers to monitor for dangerous content posted by their users. But those products only provide feedback to moderators, not to the parents of children that were exposed to those comments.
 
