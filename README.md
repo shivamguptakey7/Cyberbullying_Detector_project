@@ -114,7 +114,7 @@ Some of these words were in the list of words that were more common in the toxic
 
 ### Predictions
 
-An app with the deployed model is running on [Streamlit](https://share.streamlit.io/gcburgess/cyberbullying_detector/main/cyberbullying_detector_app.py).
+To run deployed model run cyberbullying_detector_app.py
 
 The model is able to classify comment text as 'toxic' or 'non-toxic'. Here are a few examples.
 
